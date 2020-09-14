@@ -1,0 +1,110 @@
+head {
+    padding-top: 56px;
+  }
+
+nav {
+    display: block;
+  }
+
+  /* LinkedIn Button */
+  html {
+  margin: 40px auto;
+  text-align: center;
+  }
+  .btn-linkedin {
+    background: #0E76A8;
+    border-radius: 0;
+    color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #084461;
+  }
+  .btn-linkedin:link, .btn-linkedin:visited {
+    color: #fff;
+  }
+  .btn-linkedin:active, .btn-linkedin:hover {
+    background: #084461;
+    color: #fff;
+  }
+  /* End of LinkedIn Button */
+
+body {
+    /* Typography */
+      margin-top: 56px;
+      font-size: 18px;
+      line-height: 27px;
+    
+      /* Visual */
+      background-color: #cc5500;
+  }
+
+  #Jumbotron {
+    color: #fff;
+  }
+
+div {
+    display: block;
+}
+
+header {
+    display: block;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+}
+
+
+
+    /*
+      The width of the wrapper will be 1024px
+      at browser widths above 768px
+    */
+   
+  
+    .container-fluid {
+      
+      /* Box-model */
+      width: 100%;
+      height: 500px;
+    
+      /* Positioning */
+      margin-top: 40px auto;
+    }
+
+  
+   
+  /*
+    These rules take effect when the browser's width
+    is either 768px or less.
+  */
+  @media screen and (max-width: 768px) {
+    /* The body's bg color will be #333 */
+    body {
+      background-color: rgb(65,64,75);
+    }
+    
+      /* The wrapper's width will be 600px */
+      .wrapper {
+        width: 100%;
+      }
+    }
