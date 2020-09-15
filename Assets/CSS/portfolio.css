@@ -73,6 +73,94 @@ p {
     margin-inline-end: 0px;
 }
 
+#random-recipe-browser {
+  background: rgb(218, 33, 33);
+  border-color: black;
+  width: 80%;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  text-shadow: 0 2px 5px whitesmoke, 0 3px 6px whitesmoke, 0 4px 7px whitesmoke;
+}
+
+#random-recipe-browser:active, #random-recipe-browser:hover {
+  background: #610808;
+  color: #fff;
+}
+
+#random-recipe-GitHub {
+  background: rgb(218, 33, 33);
+  border-color: black;
+  width: 80%;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  text-shadow: 0 2px 5px whitesmoke, 0 3px 6px whitesmoke, 0 4px 7px whitesmoke;
+}
+
+#random-recipe-GitHub:active, #random-recipe-GitHub:hover {
+  background: #610808;
+  color: #fff;
+}
+
+#responsive-portfolio-browser {
+  background: rgb(218, 33, 33);
+  border-color: black;
+  width: 80%;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  text-shadow: 0 2px 5px whitesmoke, 0 3px 6px whitesmoke, 0 4px 7px whitesmoke;
+}
+
+#responsive-portfolio-browser:active, #responsive-portfolio-browser:hover {
+  background: #610808;
+  color: #fff;
+}
+
+#responsive-portfolio-GitHub {
+  background: rgb(218, 33, 33);
+  border-color: black;
+  width: 80%;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  text-shadow: 0 2px 5px whitesmoke, 0 3px 6px whitesmoke, 0 4px 7px whitesmoke;
+}
+
+#responsive-portfolio-GitHub:active, #responsive-portfolio-GitHub:hover {
+  background: #610808;
+  color: #fff;
+}
+
+#day-planner-browser {
+  background: rgb(218, 33, 33);
+  border-color: black;
+  width: 80%;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  text-shadow: 0 2px 5px whitesmoke, 0 3px 6px whitesmoke, 0 4px 7px whitesmoke;
+}
+
+#day-planner-browser:active, #day-planner-browser:hover {
+  background: #610808;
+  color: #fff;
+}
+
+#day-planner-GitHub {
+  background: rgb(218, 33, 33);
+  border-color: black;
+  width: 80%;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  text-shadow: 0 2px 5px whitesmoke, 0 3px 6px whitesmoke, 0 4px 7px whitesmoke;
+}
+
+#day-planner-GitHub:active, #day-planner-GitHub:hover {
+  background: #610808;
+  color: #fff;
+}
+
+.card-img-top {
+  height: 200px;
+}
+
 .card-text-2 {
   font-style: italic;
 }
