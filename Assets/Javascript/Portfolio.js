@@ -1,0 +1,1 @@
+document.getElementById("#random-recipe-browser").onclick="location.href='https://emgal-aguirre.github.io/Recipe-Generator/';"
